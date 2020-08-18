@@ -55,5 +55,7 @@
   }
 	.logo img{ width: 40%;height: auto;}
 	.slogan img{ width: 80%;height: auto;}
-	.izq{ margin-botton:1em;}
+	.izq{ margin-bottom:2em;}
+	.izq, .der{ margin:2em;padding:0px!important;}
+	.minh-100{ height:auto;}
 }
