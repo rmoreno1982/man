@@ -53,5 +53,7 @@
   .fondo:before, .fondo:after {
     background:none;
   }
-	.logo img, .slogan img{ width: 80%;height: auto;}
+	.logo img{ width: 40%;height: auto;}
+	.slogan img{ width: 80%;height: auto;}
+	.izq{ margin-botton:1em;}
 }
