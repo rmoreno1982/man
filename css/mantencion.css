@@ -47,3 +47,10 @@
 	.redes li{display: inline;list-style: none;} 
 	.redes li a{color: #2f4dab;font-size: 2em; padding: 0.5em;}
 	.redes li a:hover{color: #000;}
+
+
+@media (min-width: 768px) {
+  .fondo:before, .fondo:after {
+    display:none;
+  }
+}
