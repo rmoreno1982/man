@@ -53,4 +53,5 @@
   .fondo:before, .fondo:after {
     background:none;
   }
+	.logo img, .slogan img{ width: 80%;height: auto;}
 }
