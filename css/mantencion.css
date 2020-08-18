@@ -51,6 +51,6 @@
 
 @media (min-width: 768px) {
   .fondo:before, .fondo:after {
-    display:none;
+    background:none;
   }
 }
